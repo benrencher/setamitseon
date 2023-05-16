@@ -25,7 +25,7 @@ Front end will use React to display epics and features.
 	Estimate
 	- An eta based on cards complete / project up time * remaining cards
 
-Backend will use Java and MongoDB to handle:
+Backend will use Node/Express and MongoDB to handle:
 	Features
 		
 
