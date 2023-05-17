@@ -1,4 +1,9 @@
 Front end will use React to display epics and features.
+	Grouping
+	- has epics
+	- has features
+	- is either planning/to do/done
+
 	Feature
 	- Has a title
 	- short description of what it accomplishes
